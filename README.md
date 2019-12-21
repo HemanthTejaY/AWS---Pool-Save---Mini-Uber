@@ -3,7 +3,7 @@
 ##### [Link To Web Application](https://frontendforuser.s3.amazonaws.com/uLogin.html)
 ## ABOUT
 This project is a part of the final-project component for the course- Cloud Computing and Applications (CS-GY 9223, New York University) 
-###### Authors: Indraneel Ray & Hemanth Teja
+###### Authors: Indraneel Ray, Hemanth Teja, Durga Prasad Reddy, Vivek Kumar
 ## FRONTEND (HTML, JavaScript, CSS)
 The frontend is hosted in AWS S3 and provides a web-app user interface to interact with the application.Many  open source libraries and frameworks were used to design the UI/UX of the application. A similar template of my web-application can be found at: https://bootsnipp.com/snippets/exR5v
 ## DESCRIPTION
