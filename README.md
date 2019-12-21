@@ -1,0 +1,2 @@
+# AWS---Pool-Save---Mini-Uber
+## DESCRIPTION "Pool &amp; Save" is a serverless, microservice driven web-based application. The Carpool system would enable users a safe and secure way to share rides within a 5 mile radius. This could include short daily journeys such as going to the workplace within the city . The entire web based application is designed using multiple AWS components such as:- AWS Lex, Rekognition, SES, SNS, S3-Buckets, API-Gateway, Swagger, Lambda Functions, Cognito, DynamoDB, SQS, Cloud Watch and Elastic Search.
