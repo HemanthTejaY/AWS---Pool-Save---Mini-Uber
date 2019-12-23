@@ -1,5 +1,5 @@
 # POOL AND SAVE (Mini Uber)
-##### [Video Demo LinK](https://youtu.be/KC22Z0-sENM)
+##### [Video Demo LinK]()
 ##### [Link To Web Application](https://frontendforuser.s3.amazonaws.com/uLogin.html)
 ## ABOUT
 This project is a part of the final-project component for the course- Cloud Computing and Applications (CS-GY 9223, New York University) 
