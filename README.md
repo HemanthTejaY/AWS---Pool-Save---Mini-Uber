@@ -2,7 +2,7 @@
 ##### [Video Demo LinK](https://youtu.be/ggagQbUG2p4)
 ## ABOUT
 This project is a part of the final-project component for the course- Cloud Computing and Applications (CS-GY 9223, New York University) 
-###### Authors: Indraneel Ray, Hemanth Teja, Durga Prasad Reddy, Vivek Kumar
+###### Authors: Indraneel Ray, Hemanth Teja
 ## FRONTEND (HTML, JavaScript, CSS)
 The frontend is hosted in AWS S3 and provides a web-app user interface to interact with the application.Many  open source libraries and frameworks were used to design the UI/UX of the application. A similar template of my web-application can be found at: https://bootsnipp.com/snippets/exR5v
 ## DESCRIPTION
@@ -23,5 +23,7 @@ There is an acute problem of traffic on roads these days and the increasing fuel
 ![alt text](https://github.com/HemanthTejaY/AWS---Pool-Save---Mini-Uber/blob/master/project-images/10.jpg)
 ![alt text](https://github.com/HemanthTejaY/AWS---Pool-Save---Mini-Uber/blob/master/project-images/11.jpg)
 ![alt text](https://github.com/HemanthTejaY/AWS---Pool-Save---Mini-Uber/blob/master/project-images/12.jpg)
-![alt text](https://github.com/HemanthTejaY/AWS---Pool-Save---Mini-Uber/blob/master/project-images/13.jpg)
+
+
+
 
