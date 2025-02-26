@@ -1,10 +1,7 @@
-# POOL AND SAVE (Mini Uber)
-##### [Video Demo LinK](https://youtu.be/ggagQbUG2p4)
-## ABOUT
-This project is a part of the final-project component for the course- Cloud Computing and Applications (CS-GY 9223, New York University) 
-###### Authors: Indraneel Ray, Hemanth Teja
 # 🏎️ AWS Pool Save - Mini Uber: A Serverless Ride-Sharing Platform with AI-Powered Rekognition System  
+This project is a part of the final-project component for the course- Cloud Computing and Applications (CS-GY 9223, New York University) 
 
+###### Authors: Indraneel Ray, Hemanth Teja
 ## 📌 Introduction  
 
 **AWS Pool Save - Mini Uber** is an innovative **serverless ride-sharing application** designed to optimize **carpooling and ride management**. Built on **Amazon Web Services (AWS)**, it ensures **scalability, cost-effectiveness, and security** by integrating **AI-powered face verification with Amazon Rekognition**.  
