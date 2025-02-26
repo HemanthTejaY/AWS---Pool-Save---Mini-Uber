@@ -21,6 +21,8 @@ This project is a part of the final-project component for the course- Cloud Comp
 ## 📌 System Architecture  
 
 The system follows a **serverless microservices architecture**, ensuring high availability and **cost-efficient scaling**.  
+![alt text](https://github.com/HemanthTejaY/AWS---Pool-Save---Mini-Uber/blob/master/project-images/2.jpg)
+
 
 ### **🛠️ Core AWS Components**  
 
@@ -126,15 +128,8 @@ By leveraging **Amazon Rekognition for fraud detection**, **serverless AWS archi
 
 📌 **GitHub Repository:** [PoolSave Repo](https://github.com/HemanthTejaY/AWS---Pool-Save---Mini-Uber)  
 
-🚀 **For contributions, API documentation, and architecture deep dives, visit the repository.**  
-
----
-
-This **README.md** is formatted for **GitHub**, using **proper markdown structure, headings, bullet points, tables, and emoji-based highlights** for maximum clarity. Would you like any refinements before adding this to your repo? 🚀
-There is an acute problem of traffic on roads these days and the increasing fuel prices add to the misery of daily users of personal vehicles. Also use of vehicles causes pollution which has adverse effects on the environment. We built a scalable web based Carpool system on AWS to help alleviate this problem.
  
 ![alt text](https://github.com/HemanthTejaY/AWS---Pool-Save---Mini-Uber/blob/master/project-images/1.jpg)
-![alt text](https://github.com/HemanthTejaY/AWS---Pool-Save---Mini-Uber/blob/master/project-images/2.jpg)
 ![alt text](https://github.com/HemanthTejaY/AWS---Pool-Save---Mini-Uber/blob/master/project-images/3.jpg)
 ![alt text](https://github.com/HemanthTejaY/AWS---Pool-Save---Mini-Uber/blob/master/project-images/4.jpg)
 ![alt text](https://github.com/HemanthTejaY/AWS---Pool-Save---Mini-Uber/blob/master/project-images/5.jpg)
